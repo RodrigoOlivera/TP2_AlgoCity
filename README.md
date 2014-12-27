@@ -8,7 +8,7 @@
   depende de que la carpeta /saved/ esté creada y no vacía. [SOLUCIONADO]
 
 #Faltantes
-- Interacción botones--crear unidad--agregar a mapa. [PENDIENTE]
+- Interacción botones--crear unidad--agregar a mapa. [RODRIGO]
 - Arreglar MapasIntegralTest. [SOLUCIONADO]
 - Poder mostrar tuberías en la vista subterranea. [SOLUCIONADO]
 
